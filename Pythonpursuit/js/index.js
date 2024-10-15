@@ -150,7 +150,7 @@ window.addEventListener('keydown', e =>{
 
 
 
-speed(){
+// speed(){
     
 // }
 
