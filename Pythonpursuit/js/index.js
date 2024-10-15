@@ -147,3 +147,38 @@ window.addEventListener('keydown', e =>{
     }
 
 });
+
+
+
+speed(){
+    
+// }
+
+
+
+
+// coordinates of food and snake head are same => length of snake increases
+// if head corrdinate 
+// for loop in head, if (x,y) coordinate of head  = (x,y) =>start again so score = 0, if current score > high score => replace
+// (18, 1 fr)
+// defined postion where the snake starts
+// food.random
+// speed = speed*1.2
+// snake() = []
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
